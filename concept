@@ -1,0 +1,18 @@
+#Concepts to Learn
+##1. git status
+Shows:
+Modified files
+Staged files
+Untracked files
+
+##2. git log
+Shows:
+Commit history
+Commit messages
+Commit IDs
+
+##3. Branch
+A separate workspace to make changes safely.
+
+##4. Merge
+Combines changes from one branch into another.
